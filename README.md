@@ -14,7 +14,7 @@
 ### METHODOLOGY
 The methodology for this study will be a combination of approaches, including:
 1. An experimental approach for comparing several models' performance and model selection based on the best performance.
-2.A quantitative approach for data collection, sentiment analysis, and hypothesis testing.
+2. A quantitative approach for data collection, sentiment analysis, and hypothesis testing.
 
 ### PERFORMANCE EVALUATION & MODEL SELECTION
 Model                                Accuracy Score

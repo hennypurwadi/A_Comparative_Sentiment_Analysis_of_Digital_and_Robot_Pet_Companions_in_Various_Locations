@@ -52,3 +52,14 @@ NO. People's sentiments towards digital and robot pet companions are not influen
 2. Collect only tweets written in English. This might not represent non-English tweets.
 3. Machine learning models include flaws and biases, inaccuracy, and mistakes (e.g., irony, sarcasm, or negation).
 4. The sample size of tweets collected from Africa was too small and insufficient to be evaluated.
+
+### SUMMARY
+1. BertForSequenceClassification model performed exceptionally well in sentiment classification. Therefore, this model was chosen as the best model for further analysis.
+2. The sentiment analysis results on unlabeled data from various continents indicated more positive sentiments, such as joy.
+3.The hypothesis testing using the chi-square test showed no significant continentsentiment relationships. Therefore, location does not affect people's sentiments towards digital and robot pet companions.
+
+### RECOMMENDATION FOR FUTURE RESEARCH
+1. Future research should include age, gender, ethnicity, and culture, to increase sentiment analysis diversity across groups.
+2. Future research should include tweets in different languages other than English.
+3. Future research should try other machine learning models.
+4. Future research should gather a larger sample from Africa.

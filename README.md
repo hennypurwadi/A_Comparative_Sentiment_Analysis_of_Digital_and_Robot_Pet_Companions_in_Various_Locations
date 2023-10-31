@@ -34,3 +34,14 @@ DistilBertForSequenceClassification  0.880
 Linear SVC                           0.883
 
 BertForSequenceClassification        0.970
+
+
+### Result Interpretation
+1. Based on the calculated sentiment proportions, all continents have strong positive sentiments. Europe has the highest positive sentiment (63.2%), America (62.6%), Australia (59.1%), and Asia (54.7%).
+2. The Chi-Square test supports the null hypothesis of independence.It means that location is not a significant factor in determining which continent is best for AI robot digital companion company marketing.
+
+### This study has several limitations. such as:
+1. Tweets are collected without regard to age, gender, ethnicity, or culture.
+2. Collect only tweets written in English. This might not represent non-English tweets.
+3. Machine learning models include flaws and biases, inaccuracy, and mistakes (e.g., irony, sarcasm, or negation).
+4. The sample size of tweets collected from Africa was too small and insufficient to be evaluated.

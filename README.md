@@ -9,7 +9,7 @@ Compared different machine learning models for sentiment analysis on a labeled d
 Collect an unlabeled Twitter public dataset about digital robot companions from various regions and use the best model with the purpose of finding the most sentiments in the unlabeled dataset. 
 Perform a Chi-square test with the purpose of finding dependencies between sentiment and locations.
 
-### Methodology
+### METHODOLOGY
 The methodology for this study will be a combination of approaches, including:
 1. An experimental approach for comparing several models' performance and model selection based on the best performance.
 2.A quantitative approach for data collection, sentiment analysis, and hypothesis testing.
@@ -36,7 +36,7 @@ Linear SVC                           0.883
 BertForSequenceClassification        0.970
 
 
-### Result Interpretation
+### RESULT INTERPRETATION
 1. Based on the calculated sentiment proportions, all continents have strong positive sentiments. Europe has the highest positive sentiment (63.2%), America (62.6%), Australia (59.1%), and Asia (54.7%).
 2. The Chi-Square test supports the null hypothesis of independence.It means that location is not a significant factor in determining which continent is best for AI robot digital companion company marketing.
 
@@ -47,7 +47,7 @@ The predominant sentiment about digital and robot pet companions is "joy“, as 
 2. Does location or region influence people's sentiments towards digital and robot pet companions?
 NO. People's sentiments towards digital and robot pet companions are not influenced by their location or region.
 
-### This study has several limitations. such as:
+### LIMITATION
 1. Tweets are collected without regard to age, gender, ethnicity, or culture.
 2. Collect only tweets written in English. This might not represent non-English tweets.
 3. Machine learning models include flaws and biases, inaccuracy, and mistakes (e.g., irony, sarcasm, or negation).

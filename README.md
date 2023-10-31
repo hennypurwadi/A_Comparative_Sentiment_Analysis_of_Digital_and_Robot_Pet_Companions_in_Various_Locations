@@ -16,12 +16,21 @@ The methodology for this study will be a combination of approaches, including:
 
 ### PERFORMANCE EVALUATION & MODEL SELECTION
 Model                                Accuracy Score
+
 Vicuna LoRA                          0.040
+
 GPT-3 Zero-shot Classifier           0.490
+
 BernoulliNB                          0.769
+
 MultinomialNB                        0.762
+
 Logistic Regression                  0.855
+
 SVM (Support Vector Machine)         0.862
+
 DistilBertForSequenceClassification  0.880
+
 Linear SVC                           0.883
+
 BertForSequenceClassification        0.970

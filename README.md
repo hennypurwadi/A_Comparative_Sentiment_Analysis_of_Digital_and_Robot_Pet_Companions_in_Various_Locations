@@ -42,7 +42,7 @@ BertForSequenceClassification        0.970
 1. Based on the calculated sentiment proportions, all continents have strong positive sentiments. Europe has the highest positive sentiment (63.2%), America (62.6%), Australia (59.1%), and Asia (54.7%).
 2. The Chi-Square test supports the null hypothesis of independence.It means that location is not a significant factor in determining which continent is best for AI robot digital companion company marketing.
 
-### RESEARCH QUESTION ANSWERS:
+### RESEARCH QUESTION'S ANSWERS:
 1. Will the majority sentiments about digital and robot pet companions be positive, or be negative?
 The predominant sentiment about digital and robot pet companions is "joy“, as a positive sentiment.
 

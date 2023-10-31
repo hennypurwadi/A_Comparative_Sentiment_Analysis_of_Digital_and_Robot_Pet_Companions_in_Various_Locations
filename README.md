@@ -7,9 +7,9 @@
 2. Does location influence people's sentiments towards digital and robot pet companions?
 
 ### ABSTRACT
-Compared different machine learning models for sentiment analysis on a labeled dataset with the purpose of finding the best performance model.
-Collect an unlabeled Twitter public dataset about digital robot companions from various regions and use the best model with the purpose of finding the most sentiments in the unlabeled dataset. 
-Perform a Chi-square test with the purpose of finding dependencies between sentiment and locations.
+1. Compared different machine learning models for sentiment analysis on a labeled dataset with the purpose of finding the best performance model.
+2. Collect an unlabeled Twitter public dataset about digital robot companions from various regions and use the best model with the purpose of finding the most sentiments in the unlabeled dataset. 
+3. Perform a Chi-square test with the purpose of finding dependencies between sentiment and locations.
 
 ### METHODOLOGY
 The methodology for this study will be a combination of approaches, including:

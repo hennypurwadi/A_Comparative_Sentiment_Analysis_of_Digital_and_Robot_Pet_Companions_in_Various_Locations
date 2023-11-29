@@ -1,5 +1,4 @@
-## A COMPARATIVE SENTIMENT ANALYSIS OF DIGITAL AND ROBOT PET COMPANIONS IN VARIOUS LOCATIONS
-
+## A Comparative Sentiment Analysis of Digital and Robot Pet Companions in Various Locations
 ## My Thesis Presentation Video link: https://youtu.be/0GBgFD0WQc8
 
 ### RESEARCH QUESTIONS

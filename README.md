@@ -1,6 +1,5 @@
 ## A Comparative Sentiment Analysis of Digital and Robot Pet Companions in Various Locations
-## My Thesis Presentation Video link: https://youtu.be/OKGWRWZqmqg
-
+## My Thesis Presentation Video link: https://youtu.be/zeu6uPV0Iio
 ### RESEARCH QUESTIONS
 1. Will the majority of sentiments about digital and robot pet companions be positive or be negative?
 2. Does location influence people's sentiments towards digital and robot pet companions?
